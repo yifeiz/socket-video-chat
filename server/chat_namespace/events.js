@@ -72,5 +72,6 @@ module.exports = {
   privateMessage,
   leaveRoom,
   joinPrivateRoom,
+  leavePrivateRoom,
   privateMessagePCSignaling,
 };
